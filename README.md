@@ -14,10 +14,10 @@ https://github.com/coreybutler/nvm-windows/releases -> nvm_setup.exe
 - npm start => run project include install expo-cli package
 
 ## Setup in CMD (React-native)
-* npx react-native init <package-name>
+> npx react-native init <package-name>
 - react navigator (website) => navigate page to page [look for bare React Native, not expo package]
-** npm install @react-navigation/native
-** npm install react-native-screens react-native-safe-area-context
+> npm install @react-navigation/native
+> npm install react-native-screens react-native-safe-area-context
 - zustand (website) => provide global storage for mobile application
 - 
 
