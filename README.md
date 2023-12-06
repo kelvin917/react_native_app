@@ -29,7 +29,7 @@ https://github.com/coreybutler/nvm-windows/releases -> nvm_setup.exe
 - add <android:screenOrientation:="portrait"> in <activity> column in AndroidManifest.xml
 - android -> app -> src -> main -> java -> MainActivity.java
 - put the code at the below in MainActivity.java 
-'''
+```
 public class MainActivity extends ReactActivity {
   // ...
   @Override
@@ -38,7 +38,7 @@ public class MainActivity extends ReactActivity {
   }
   // ...
 }
-'''
+```
 
 ## Project Requirement 
 - nvm install 16.14.1 => current use this version for this project
