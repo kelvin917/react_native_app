@@ -53,8 +53,8 @@ import android.os.Bundle;
 ## Setup React Navigator Dependencies
 > [react navigator](https://reactnavigation.org/docs/getting-started/)
 ### Setup Native Stack
-- https://reactnavigation.org/docs/native-stack-navigator
-> `npm install @react-navigation/native-stack`
+> https://reactnavigation.org/docs/native-stack-navigator
+ `npm install @react-navigation/native-stack`
 
 ### Setup Bottom Tabs 
 - https://reactnavigation.org/docs/bottom-tab-navigator
