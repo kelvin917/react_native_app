@@ -85,4 +85,10 @@ import android.os.Bundle;
 > https://www.npmjs.com/package/zustand
 - `npm i zustand`
 
+### Setup immer
+> https://www.npmjs.com/package/immer
+- `npm i immer`
 
+### Setup react-native-async-storage
+> https://www.npmjs.com/package/@react-native-async-storage/async-storage
+- `npm i @react-native-async-storage/async-storage`
