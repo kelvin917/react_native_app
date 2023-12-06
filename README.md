@@ -4,6 +4,9 @@ Learning and building mobile app with react native
 # Installation 
 https://github.com/coreybutler/nvm-windows/releases -> nvm_setup.exe
 
+## Project Requirement 
+- nvm install 16.14.1 => current use this version for this project
+
 ## Setup in CMD (Expo Go)
 - `nvm list available` => checking the version of nvm list
 - `nvm install xxx` => install nvm with version. example:(nvm install 16.14.1)
@@ -47,7 +50,7 @@ public class MainActivity extends ReactActivity {
 import android.os.Bundle;
 ```
 
-##Setup React Navigator Dependencies
+## Setup React Navigator Dependencies
 > [react navigator](https://reactnavigation.org/docs/getting-started/)
 ### Setup Native Stack
 - `npm install @react-navigation/native-stack`
@@ -55,7 +58,16 @@ import android.os.Bundle;
 ### Setup Bottom Tabs 
 - `npm install @react-navigation/bottom-tabs`
 
-## Project Requirement 
-- nvm install 16.14.1 => current use this version for this project
+## Setup MPSJS
+>[npmJS](https://www.npmjs.com/)
+### Setup react native linear gradient
+- `npm i react-native-linear-gradient`
+> https://www.npmjs.com/package/react-native-linear-gradient
+
+### Setup react native community blur
+- `npm i @react-native-community/blur`
+> https://www.npmjs.com/package/@react-native-community/blur
+  
+
 
 
