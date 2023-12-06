@@ -15,13 +15,12 @@ https://github.com/coreybutler/nvm-windows/releases -> nvm_setup.exe
 
 ## Setup in CMD (React-native)
 > [!NOTE]
-> npx react-native init <package-name>
+> react navigator (website) => navigate page to page [look for bare React Native, not expo package]
+> zustand (website) => provide global storage for mobile application
 - npx react-native init <package-name>
-- react navigator (website) => navigate page to page [look for bare React Native, not expo package]
-  - npm install @react-navigation/native
-  - npm install react-native-screens react-native-safe-area-context
-- zustand (website) => provide global storage for mobile application
-- 
+- npm install @react-navigation/native
+- npm install react-native-screens react-native-safe-area-context
+
 
 ## Setup in file (React-native)
 - <package_name> -> android -> app -> src -> main -> AndoridManifest.xml
