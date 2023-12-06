@@ -27,7 +27,7 @@ https://github.com/coreybutler/nvm-windows/releases -> nvm_setup.exe
 ## Setup in file (React-native)
 ### Setup AndoridManifest.xml
 - <package_name> -> android -> app -> src -> main -> AndoridManifest.xml
-- add `#ffffff`**android:screenOrientation:="portrait"** in <activity> column in AndroidManifest.xml
+- add `android:screenOrientation:="portrait"` in <activity> column in AndroidManifest.xml
   
 ### Setup MainActivity.java
 - android -> app -> src -> main -> java -> MainActivity.java
