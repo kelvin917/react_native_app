@@ -39,6 +39,10 @@ public class MainActivity extends ReactActivity {
   // ...
 }
 ```
+- and make sure to add the following import statement at the top of this file below your package statement:
+```
+import android.os.Bundle;
+```
 
 ## Project Requirement 
 - nvm install 16.14.1 => current use this version for this project
