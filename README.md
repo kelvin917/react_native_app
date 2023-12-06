@@ -27,7 +27,18 @@ https://github.com/coreybutler/nvm-windows/releases -> nvm_setup.exe
 ## Setup in file (React-native)
 - <package_name> -> android -> app -> src -> main -> AndoridManifest.xml
 - add <android:screenOrientation:="portrait"> in <activity> column in AndroidManifest.xml
-- 
+- android -> app -> src -> main -> java -> MainActivity.java
+- put the code at the below in MainActivity.java 
+'''
+public class MainActivity extends ReactActivity {
+  // ...
+  @Override
+  protected void onCreate(Bundle savedInstanceState) {
+    super.onCreate(null);
+  }
+  // ...
+}
+'''
 
 ## Project Requirement 
 - nvm install 16.14.1 => current use this version for this project
