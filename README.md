@@ -50,7 +50,7 @@ public class MainActivity extends ReactActivity {
 import android.os.Bundle;
 ```
 
-## Setup React Navigator Dependencies
+## React Navigator Dependencies Setup
 > [react navigator](https://reactnavigation.org/docs/getting-started/)
 ### Setup Native Stack
 > https://reactnavigation.org/docs/native-stack-navigator
@@ -60,8 +60,10 @@ import android.os.Bundle;
 > https://reactnavigation.org/docs/bottom-tab-navigator
 - `npm install @react-navigation/bottom-tabs`
 
-## Setup MPSJS
+
+## NPMJS Setup
 >[npmJS](https://www.npmjs.com/)
+
 ### Setup react native linear gradient
 > https://www.npmjs.com/package/react-native-linear-gradient
 - `npm i react-native-linear-gradient`
@@ -69,7 +71,17 @@ import android.os.Bundle;
 ### Setup react native community blur
 > https://www.npmjs.com/package/@react-native-community/blur
 - `npm i @react-native-community/blur`
-  
 
+### Setup lottie react native
+> https://www.npmjs.com/package/lottie-react-native
+- `npm i lottie-react-native`
+
+### Setup react native vector icons
+> https://www.npmjs.com/package/react-native-vector-icons
+- `npm i react-native-vector-icons`
+
+### Setup Zustand
+> https://www.npmjs.com/package/zustand
+- `npm i zustand`
 
 
