@@ -92,3 +92,9 @@ import android.os.Bundle;
 ### Setup react-native-async-storage
 > https://www.npmjs.com/package/@react-native-async-storage/async-storage
 - `npm i @react-native-async-storage/async-storage`
+
+# Run Android App
+- `cd android`
+- `./gradlew clean` => to clean all dependency in android folder
+- `cd ..` => to go back in <package_name>
+- `npx react-native run-android` => it will restore all files into the project
