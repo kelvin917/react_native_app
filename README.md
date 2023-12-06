@@ -5,22 +5,22 @@ Learning and building mobile app with react native
 https://github.com/coreybutler/nvm-windows/releases -> nvm_setup.exe
 
 ## Setup in CMD (Expo Go)
-- nvm list available => checking the version of nvm list
-- nvm install xxx => install nvm with version. example:(nvm install 16.14.1)
-- nvm install latest => install latest nvm version
-- nvm use xxx => use nvm with version 
-- nvm use latest => use latest nvm version
-- expo init ./ => install React Native file while open new project
-- npm start => run project include install expo-cli package
+- `nvm list available` => checking the version of nvm list
+- `nvm install xxx` => install nvm with version. example:(nvm install 16.14.1)
+- `nvm install latest` => install latest nvm version
+- `nvm use xxx` => use nvm with version 
+- `nvm use latest` => use latest nvm version
+- `expo init ./` => install React Native file while open new project
+- `npm start` => run project include install expo-cli package
 
 ## Setup in CMD (React-native)
 > [!NOTE]
 > - react navigator (website) => navigate page to page [look for bare React Native, not expo package]
 > - zustand (website) => provide global storage for mobile application
-- npx react-native init <package-name>
-- npm install @react-navigation/native
+- `npx react-native init <package-name>`
+- `npm install @react-navigation/native`
 > install react navigator 
-- npm install react-native-screens react-native-safe-area-context
+- `npm install react-native-screens react-native-safe-area-context`
 > install react navigator screen
 
 
@@ -48,6 +48,7 @@ import android.os.Bundle;
 ```
 
 ### Setup Native Stack
+- `npm install @react-navigation/native-stack`
 
 ## Project Requirement 
 - nvm install 16.14.1 => current use this version for this project
