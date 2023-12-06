@@ -14,7 +14,15 @@ https://github.com/coreybutler/nvm-windows/releases -> nvm_setup.exe
 - npm start => run project include install expo-cli package
 
 ## Setup in CMD (React-native)
-- npx react-native init <package-name> 
+- npx react-native init <package-name>
+- react navigator (website) => navigate page to page
+- zustand (website) => provide global storage for mobile application
+- npm install @react-navigation/native => install react navigator
+
+## Setup in file (React-native)
+- <package_name> -> android -> app -> src -> main -> AndoridManifest.xml
+- add <android:screenOrientation:="portrait"> in <activity> column in AndroidManifest.xml
+- 
 
 ## Project Requirement 
 - nvm install 16.14.1 => current use this version for this project
