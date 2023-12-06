@@ -47,8 +47,13 @@ public class MainActivity extends ReactActivity {
 import android.os.Bundle;
 ```
 
+##Setup React Navigator Dependencies
+> [react navigator](https://reactnavigation.org/docs/getting-started/)
 ### Setup Native Stack
 - `npm install @react-navigation/native-stack`
+
+### Setup Bottom Tabs 
+- `npm install @react-navigation/bottom-tabs`
 
 ## Project Requirement 
 - nvm install 16.14.1 => current use this version for this project
