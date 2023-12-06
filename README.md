@@ -78,7 +78,7 @@ import android.os.Bundle;
 
 ### Setup react native vector icons
 > https://www.npmjs.com/package/react-native-vector-icons
-- add `--save-dev@types/` for turn into typescript
+> - add `--save-dev@types/` for turn into typescript
 - `npm i --save-dev@types/react-native-vector-icons`
 
 ### Setup Zustand
