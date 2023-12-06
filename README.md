@@ -54,21 +54,21 @@ import android.os.Bundle;
 > [react navigator](https://reactnavigation.org/docs/getting-started/)
 ### Setup Native Stack
 > https://reactnavigation.org/docs/native-stack-navigator
-> - `npm install @react-navigation/native-stack`
+> `npm install @react-navigation/native-stack`
 
 ### Setup Bottom Tabs 
 > https://reactnavigation.org/docs/bottom-tab-navigator
-> - `npm install @react-navigation/bottom-tabs`
+> `npm install @react-navigation/bottom-tabs`
 
 ## Setup MPSJS
 >[npmJS](https://www.npmjs.com/)
 ### Setup react native linear gradient
 > https://www.npmjs.com/package/react-native-linear-gradient
-> - `npm i react-native-linear-gradient`
+> `npm i react-native-linear-gradient`
 
 ### Setup react native community blur
 > https://www.npmjs.com/package/@react-native-community/blur
-> - `npm i @react-native-community/blur`
+> `npm i @react-native-community/blur`
   
 
 
