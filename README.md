@@ -15,8 +15,8 @@ https://github.com/coreybutler/nvm-windows/releases -> nvm_setup.exe
 
 ## Setup in CMD (React-native)
 > [!NOTE]
-> react navigator (website) => navigate page to page [look for bare React Native, not expo package]
-> zustand (website) => provide global storage for mobile application
+> - react navigator (website) => navigate page to page [look for bare React Native, not expo package]
+> - zustand (website) => provide global storage for mobile application
 - npx react-native init <package-name>
 - npm install @react-navigation/native
 - npm install react-native-screens react-native-safe-area-context
