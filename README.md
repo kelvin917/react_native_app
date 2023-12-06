@@ -10,6 +10,7 @@ https://github.com/coreybutler/nvm-windows/releases -> nvm_setup.exe
 - nvm install latest => install latest nvm version
 - nvm use xxx => use nvm with version 
 - nvm use latest => use latest nvm version
+- expo init ./ => install React Native file while open new project
 - npm start => run project include install expo-cli package
 
 ## Project Requirement 
